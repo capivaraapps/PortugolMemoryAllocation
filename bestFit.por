@@ -1,5 +1,5 @@
 
-// Exemplo de funcionamento do algoritmo de alocação de memoria Next-fit
+// Exemplo de funcionamento do algoritmo de alocação de memoria Best-fit
 // Devido as limitações de Portugol, não utilizarei alocação real de memoria
 // e sim uma serie de vetores que simularão os blocos de memoria disponiveis
 // e os processos a serem alocados.
